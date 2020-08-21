@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec12" Database="" Version="10000">
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
+  <Project Name="ArraysPointers" Path="ArraysPointers/ArraysPointers.project" Active="No"/>
+  <Project Name="PassingPointers" Path="PassingPointers/PassingPointers.project" Active="No"/>
+  <Project Name="PassingPointers2" Path="PassingPointers2/PassingPointers2.project" Active="No"/>
+  <Project Name="ReturningPointers" Path="ReturningPointers/ReturningPointers.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="ArraysPointers" ConfigName="Debug"/>
+      <Project Name="PassingPointers" ConfigName="Debug"/>
+      <Project Name="PassingPointers2" ConfigName="Debug"/>
+      <Project Name="ReturningPointers" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="ArraysPointers" ConfigName="Release"/>
+      <Project Name="PassingPointers" ConfigName="Release"/>
+      <Project Name="PassingPointers2" ConfigName="Release"/>
+      <Project Name="ReturningPointers" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec6" Database="" Version="10000">
+  <Project Name="constants" Path="Constants/constants.project" Active="Yes"/>
+  <Project Name="Sizes" Path="Sizes/Sizes.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Sizes" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Sizes" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

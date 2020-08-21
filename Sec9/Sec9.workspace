@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec9" Database="" Version="10000">
+  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="Direction" Path="Direction/Direction.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Shipping" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="Direction" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Shipping" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="Direction" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

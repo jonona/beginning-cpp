@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec8" Database="" Version="10000">
+  <Project Name="Statements" Path="Statements/Statements.project" Active="No"/>
+  <Project Name="Average" Path="Average/Average.project" Active="No"/>
+  <Project Name="Converter" Path="Converter/Converter.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Statements" ConfigName="Debug"/>
+      <Project Name="Converter" ConfigName="Debug"/>
+      <Project Name="Average" ConfigName="Debug"/>
+      <Project Name="Converter" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Statements" ConfigName="Release"/>
+      <Project Name="Converter" ConfigName="Release"/>
+      <Project Name="Average" ConfigName="Release"/>
+      <Project Name="Converter" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

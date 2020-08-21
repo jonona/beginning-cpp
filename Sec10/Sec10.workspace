@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec10" Database="" Version="10000">
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="Letter-Pyramid" Path="Letter-Pyramid/Letter-Pyramid.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Letter-Pyramid" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Letter-Pyramid" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
