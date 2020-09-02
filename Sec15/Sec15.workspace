@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec15" Database="" Version="10000">
+  <Project Name="BaseConstructors" Path="BaseConstructors/BaseConstructors.project" Active="No"/>
+  <Project Name="RedefiningMethods" Path="RedefiningMethods/RedefiningMethods.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="BaseConstructors" ConfigName="Debug"/>
+      <Project Name="RedefiningMethods" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="BaseConstructors" ConfigName="Release"/>
+      <Project Name="RedefiningMethods" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
