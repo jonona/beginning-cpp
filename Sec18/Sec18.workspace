@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sec18" Database="" Version="10000">
+  <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
+  <Project Name="MultipleExceptions" Path="MultipleExceptions/MultipleExceptions.project" Active="No"/>
+  <Project Name="ExceptionClasses" Path="ExceptionClasses/ExceptionClasses.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="MultipleExceptions" ConfigName="Debug"/>
+      <Project Name="ExceptionClasses" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="MultipleExceptions" ConfigName="Release"/>
+      <Project Name="ExceptionClasses" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
