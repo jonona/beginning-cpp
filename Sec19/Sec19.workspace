@@ -1,2 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="Sec19" Database="" Version="10000"/>
+<CodeLite_Workspace Name="Sec19" Database="" Version="10000">
+  <Project Name="Boolean" Path="Boolean/Boolean.project" Active="No"/>
+  <Project Name="Integer" Path="Integer/Integer.project" Active="No"/>
+  <Project Name="Float" Path="Float/Float.project" Active="No"/>
+  <Project Name="Fields" Path="Fields/Fields.project" Active="No"/>
+  <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
+  <Project Name="ReadFile" Path="ReadFile/ReadFile.project" Active="No"/>
+  <Project Name="ReadFile2" Path="ReadFile2/ReadFile2.project" Active="No"/>
+  <Project Name="ReadFile3" Path="ReadFile3/ReadFile3.project" Active="No"/>
+  <Project Name="ReadFile4" Path="ReadFile4/ReadFile4.project" Active="No"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="No"/>
+  <Project Name="WritingFile" Path="WritingFile/WritingFile.project" Active="No"/>
+  <Project Name="Challenge4" Path="Challenge4/Challenge4.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Boolean" ConfigName="Debug"/>
+      <Project Name="Integer" ConfigName="Debug"/>
+      <Project Name="Float" ConfigName="Debug"/>
+      <Project Name="Fields" ConfigName="Debug"/>
+      <Project Name="Challenge1" ConfigName="Debug"/>
+      <Project Name="ReadFile" ConfigName="Debug"/>
+      <Project Name="ReadFile2" ConfigName="Debug"/>
+      <Project Name="ReadFile3" ConfigName="Debug"/>
+      <Project Name="ReadFile4" ConfigName="Debug"/>
+      <Project Name="Challenge2" ConfigName="Debug"/>
+      <Project Name="Challenge3" ConfigName="Debug"/>
+      <Project Name="WritingFile" ConfigName="Debug"/>
+      <Project Name="Challenge4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Boolean" ConfigName="Release"/>
+      <Project Name="Integer" ConfigName="Release"/>
+      <Project Name="Float" ConfigName="Release"/>
+      <Project Name="Fields" ConfigName="Release"/>
+      <Project Name="Challenge1" ConfigName="Release"/>
+      <Project Name="ReadFile" ConfigName="Release"/>
+      <Project Name="ReadFile2" ConfigName="Release"/>
+      <Project Name="ReadFile3" ConfigName="Release"/>
+      <Project Name="ReadFile4" ConfigName="Release"/>
+      <Project Name="Challenge2" ConfigName="Release"/>
+      <Project Name="Challenge3" ConfigName="Release"/>
+      <Project Name="WritingFile" ConfigName="Release"/>
+      <Project Name="Challenge4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
