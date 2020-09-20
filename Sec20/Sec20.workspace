@@ -9,7 +9,14 @@
   <Project Name="Vector" Path="Vector/Vector.project" Active="No"/>
   <Project Name="Deque" Path="Deque/Deque.project" Active="No"/>
   <Project Name="Challenge1" Path="Challenge1/Challenge1.project" Active="No"/>
-  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="Yes"/>
+  <Project Name="Challenge2" Path="Challenge2/Challenge2.project" Active="No"/>
+  <Project Name="Set" Path="Set/Set.project" Active="No"/>
+  <Project Name="Map" Path="Map/Map.project" Active="No"/>
+  <Project Name="Challenge3" Path="Challenge3/Challenge3.project" Active="No"/>
+  <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+  <Project Name="Queue" Path="Queue/Queue.project" Active="No"/>
+  <Project Name="Challenge4" Path="Challenge4/Challenge4.project" Active="No"/>
+  <Project Name="PriorityQueue" Path="PriorityQueue/PriorityQueue.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -23,6 +30,13 @@
       <Project Name="Deque" ConfigName="Debug"/>
       <Project Name="Challenge1" ConfigName="Debug"/>
       <Project Name="Challenge2" ConfigName="Debug"/>
+      <Project Name="Set" ConfigName="Debug"/>
+      <Project Name="Map" ConfigName="Debug"/>
+      <Project Name="Challenge3" ConfigName="Debug"/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+      <Project Name="Challenge4" ConfigName="Debug"/>
+      <Project Name="PriorityQueue" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -36,6 +50,13 @@
       <Project Name="Deque" ConfigName="Release"/>
       <Project Name="Challenge1" ConfigName="Release"/>
       <Project Name="Challenge2" ConfigName="Release"/>
+      <Project Name="Set" ConfigName="Release"/>
+      <Project Name="Map" ConfigName="Release"/>
+      <Project Name="Challenge3" ConfigName="Release"/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+      <Project Name="Challenge4" ConfigName="Release"/>
+      <Project Name="PriorityQueue" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
